@@ -1,0 +1,118 @@
+{
+    "people": {
+        "cf85d26d-2e9f-4c23-854e-4432c26b6607": {
+            "id": "cf85d26d-2e9f-4c23-854e-4432c26b6607",
+            "firstName": "ALex",
+            "lastName": "M",
+            "email": "email@email.email",
+            "departament": "IT",
+            "mobileNumber": "+333333333",
+            "age": 29
+        },
+        "23feec03-5965-4ecb-b922-16f08804426c": {
+            "id": "23feec03-5965-4ecb-b922-16f08804426c",
+            "firstName": "ALex",
+            "lastName": "M",
+            "email": "email@email.email",
+            "departament": "IT",
+            "mobileNumber": "+333333333",
+            "age": 29
+        },
+        "08946b7f-b1cc-40f9-b4a9-a21142933759": {
+            "id": "08946b7f-b1cc-40f9-b4a9-a21142933759",
+            "firstName": "ALex",
+            "lastName": "M",
+            "email": "email@email.email",
+            "departament": "IT",
+            "mobileNumber": "+333333333",
+            "age": 29
+        },
+        "74596c2f-3f5f-4770-aa45-faf79945a419": {
+            "id": "74596c2f-3f5f-4770-aa45-faf79945a419",
+            "firstName": "ALex",
+            "lastName": "M",
+            "email": "email@email.email",
+            "departament": "IT",
+            "mobileNumber": "+333333333",
+            "age": 29
+        },
+        "a488df5f-895e-41da-bc72-3a4c29a7349c": {
+            "id": "a488df5f-895e-41da-bc72-3a4c29a7349c",
+            "firstName": "ALex",
+            "lastName": "M",
+            "email": "email@email.email",
+            "departament": "IT",
+            "mobileNumber": "+333333333",
+            "age": 129
+        },
+        "f93193fb-7c7c-483d-a19e-266d6395c127": {
+            "id": "f93193fb-7c7c-483d-a19e-266d6395c127",
+            "firstName": "ALex",
+            "lastName": "M",
+            "email": "email@email.email",
+            "departament": "IT",
+            "mobileNumber": "+333333333",
+            "age": 139
+        },
+        "2df49c11-b785-4b66-b606-b529e3836506": {
+            "id": "2df49c11-b785-4b66-b606-b529e3836506",
+            "firstName": "ALex",
+            "lastName": "Mesta",
+            "email": "email@email.email",
+            "departament": "IT",
+            "mobileNumber": "333333333",
+            "age": 29
+        }
+    },
+    "users": {
+        "alex": {
+            "password": "mypassword",
+            "permissions": {
+                "people": [
+                    "reader",
+                    "writer"
+                ],
+                "humans": [
+                    "reader",
+                    "writer",
+                    "deleter"
+                ]
+            }
+        },
+        "afoska": {
+            "password": "mypassword",
+            "permissions": {
+                "people": [
+                    "reader"
+                ],
+                "humans": [
+                    "reader"
+                ]
+            }
+        },
+        "sn": {
+            "password": "mypassword",
+            "permissions": {
+                "people": [
+                    "reader",
+                    "writer",
+                    "deleter"
+                ],
+                "humans": [
+                    "reader"
+                ]
+            }
+        }
+    },
+    "humans": {
+        "960631b6-59c8-4cb9-9ca8-85612f227df3": {
+            "id": "960631b6-59c8-4cb9-9ca8-85612f227df3",
+            "firstName": "SNS",
+            "lastName": "SSSSSS",
+            "email": "email@email.email",
+            "departament": "IT",
+            "mobileNumber": "333333333",
+            "age": 28
+        }
+    }
+}
